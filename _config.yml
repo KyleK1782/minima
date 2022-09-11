@@ -32,6 +32,11 @@ minima:
     # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
+    # Must be the User ID copied when developer mode is enabled
+    # discord: 742470763747082350
+    # The discord join link
+    # TODO
+    # discord_server: xyzabc
 
     # Mastodon instances
     # mastodon:
